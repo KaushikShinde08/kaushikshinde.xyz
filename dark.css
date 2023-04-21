@@ -1,0 +1,12 @@
+@import url(./styles.css);
+
+body{
+    background-color: #1a1818;
+    color: #fff
+}
+.topnav a{
+    color: #fff;
+}
+.main{
+    background-color: #252222;
+}

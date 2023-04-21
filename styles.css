@@ -1,5 +1,5 @@
 body{
-    background-color: blanchedalmond;
+    background-color: rgb(40, 38, 35);
 }
 .topnav{
     display:block;
@@ -8,6 +8,9 @@ body{
     padding: 14px;
     text-decoration: none;
     color: black;
+    float: right;
+}
+#themeToggle{
     float: right;
 }
 .image{
